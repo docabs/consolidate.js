@@ -1,5 +1,5 @@
 {
-  "name": "@vue/consolidate",
+  "name": "@docue/consolidate",
   "description": "Template engine consolidation library (fork)",
   "version": "0.17.3",
   "homepage": "https://github.com/yyx990803/consolidate.js",
@@ -89,5 +89,8 @@
     "engine",
     "template",
     "view"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
